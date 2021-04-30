@@ -1,0 +1,50 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .row {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .row-blank {
+    height: 235px;
+    width: 100%;
+  }
+  
+  .row-1 {
+    background-color: #cccccc;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .row-1-div {
+
+    width: 60px;
+    height: 60px;
+    background-color: #456a94;
+  }
+  
+  .row-2 {
+      margin: auto;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  .row-3 {
+    background-color: #3f7bc0;
+  }
+  
+  .row-4 {
+    background-color: #45c9ac;
+  }
+  
+  .row-5 {
+    background-color: #abe076;
+  }
+  
+  .row-6 {
+    background-color: #d8c81d;
+  }
